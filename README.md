@@ -6,7 +6,7 @@
 
 
     - **PhD Candidate in Computer System Architecture** (2021-Present)  
-        Supervisor: Hua Wang | [![HUST](https://img.shields.io/badge/HUST_IDSM_LAB-005BAC?logo=graduation-cap)](http://idsm.wnlo.hust.edu.cn/) 
+        Supervisor: Prof. Hua Wang | [![HUST](https://img.shields.io/badge/HUST_IDSM_LAB-005BAC?logo=graduation-cap)](http://idsm.wnlo.hust.edu.cn/) 
         
 
     - **B.Eng in Electronic Information Engineering** (2017–2021)  
@@ -49,7 +49,7 @@
 
 ### **Cloud Storage Researcher**  
 [![Tencent](https://img.shields.io/badge/Tencent_Cloud-0080FF?logo=tencentqq)](https://www.tencentcloud.com/products/cbs)  
-📍 Shenzhen, China | Oct 2022–Present  | 👨🏫 Advisor: Min Fu  
+📍 Shenzhen, China | Oct 2022–Present  | 👨🏫 Advisor: Dr. Min Fu  
 
 
 ### **Network Systems Researcher**  
