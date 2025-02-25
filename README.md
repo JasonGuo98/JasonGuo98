@@ -17,7 +17,7 @@
     - Cache Optimization Algorithms  
     - SSD Garbage Collection Mechanisms
   
-- 📊 **Skills**:  
+- 🔨 **Skills**:  
   ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
   ![CUDA](https://img.shields.io/badge/-CUDA-76B900?logo=nvidia)
